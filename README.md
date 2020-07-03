@@ -41,7 +41,7 @@ Current version is 1.0.
 
 ## Licence
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3 (GPLv3) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3 (GPLv3) - see the [LICENSE.md](LICENSE) file for details.
 
 ## References
 
