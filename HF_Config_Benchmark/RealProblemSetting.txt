@@ -1,0 +1,14 @@
+MaxEvaluations:100000
+ArchiveSize:100
+PopulationSize:100
+offset:100.0
+SolutionType:Real
+ObjectiveNumber:2
+MutationType:PolynomialMutation
+MutationDistributionIndex:20
+CrossoverType:SBXCrossover
+CrossoverProb:0.9
+CrossoverDistributionIndex:20
+SelectionType:BinaryTournament
+DecisionPoints:25
+epsilonGridWidth:0.01

@@ -1,0 +1,8 @@
+ArchiveSize:50
+PopulationSize:50
+MaxEvaluations:5000
+ProblemType:CONT
+MutationType:MovementMutationNew
+MutationProb:0.9
+CrossoverType:BlockSwapCrossoverNew
+CrossoverProb:0.3

@@ -1,0 +1,6 @@
+crossoverName = sbxIntegerCrossover
+crossoverProbality = 0.9
+crossoverDistribution = 20
+mutationName = integerPolynomialMutation
+mutationProbability = 1.0 / numberOfVariables
+mutationDistribution = 20

@@ -1,0 +1,10 @@
+MaxEvaluations:50000
+PopulationSize:1000
+SolutionType:Real
+DistanceParameters:20
+PositionParameters:4
+ObjectiveNumber:3
+MutationType:PolynomialMutation
+MutationDistributionIndex:20
+CR:1.0
+F:0.5

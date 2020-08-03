@@ -1,0 +1,7 @@
+PopulationSize:100
+MutationType:PolynomialMutation
+MutationDistributionIndex:20
+CrossoverType:SBXCrossover
+CrossoverProb:0.9
+CrossoverDistributionIndex:20
+SelectionType:BinaryTournament
