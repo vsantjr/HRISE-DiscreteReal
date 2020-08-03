@@ -1,0 +1,3 @@
+algorithmName = Nsgaii
+populationSize = 300
+maxIteractions = 1000

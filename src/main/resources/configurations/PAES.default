@@ -1,0 +1,5 @@
+algorithmName = Paes
+populationSize = 100
+archiveSize = 100
+maxIteractions = 750
+
