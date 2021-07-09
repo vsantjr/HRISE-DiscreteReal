@@ -45,7 +45,7 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3 (GPLv3)
 
 ## References
 
-[1] V. A. Santiago J&uacute;nior, E. Ozcan, V. R. de Carvalho. Hyper-Heuristics based on Reinforcement Learning, Balanced Heuristic Selection and Group Decision Acceptance. APPLIED SOFT COMPUTING, p. 1-48, 2020. Submitted (Pre-print, Revision 1).
+[1] V. A. Santiago J&uacute;nior, E. Ozcan, V. R. de Carvalho. Hyper-Heuristics based on Reinforcement Learning, Balanced Heuristic Selection and Group Decision Acceptance. Applied Soft Computing, v. 97, Part A, 106760, 2020.
 
 [2] M. Maashi, E. Ozcan, G. Kendall, A multi-objective hyper-heuristic based on choice function, Expert Systems with Applications 41 (9) (2014) 4475 - 4493. doi:https://doi.org/10.1016/j.eswa.2013.12.050. 
 
