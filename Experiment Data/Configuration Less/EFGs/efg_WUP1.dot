@@ -1,0 +1,35 @@
+strict digraph G {
+  selectChat [ label="selectChat" ];
+  typeText [ label="typeText" ];
+  playVideo [ label="playVideo" ];
+  deleteTextOrEmoji [ label="deleteTextOrEmoji" ];
+  selectEmoji [ label="selectEmoji" ];
+  typeTextEmoji [ label="typeTextEmoji" ];
+  typeEmojiText [ label="typeEmojiText" ];
+  typeTextAgain [ label="typeTextAgain" ];
+  closeWU [ label="closeWU" ];
+  selectChat -> typeText;
+  selectChat -> playVideo;
+  typeText -> deleteTextOrEmoji;
+  deleteTextOrEmoji -> typeText;
+  typeText -> selectEmoji;
+  playVideo -> selectEmoji;
+  selectEmoji -> typeTextAgain;
+  selectEmoji -> typeTextEmoji;
+  selectEmoji -> typeEmojiText;
+  typeText -> typeTextEmoji;
+  playVideo -> typeTextEmoji;
+  typeTextEmoji -> typeTextAgain;
+  typeTextEmoji -> selectEmoji;
+  typeTextEmoji -> typeEmojiText;
+  typeText -> typeEmojiText;
+  playVideo -> typeEmojiText;
+  typeEmojiText -> typeTextAgain;
+  typeEmojiText -> selectEmoji;
+  typeEmojiText -> typeTextEmoji;
+  typeTextAgain -> deleteTextOrEmoji;
+  deleteTextOrEmoji -> typeTextAgain;
+  playVideo -> typeTextAgain;
+  typeTextAgain -> closeWU;
+  closeWU -> selectChat;
+}
