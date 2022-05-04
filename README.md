@@ -8,7 +8,7 @@ HRISE-DiscreteReal is useful for discrete optimisation and real problems. So, an
 
 This repository is the supplemental material of the article below:
 
-Many-Objective Test Case Generation for Graphical User Interface Applications via Search-Based and Model-Based Testing
+**Many-Objective Test Case Generation for Graphical User Interface Applications via Search-Based and Model-Based Testing**.
  
 All relevant data obtained via the experiments are in the folder ```Experiment Data```. 
 
